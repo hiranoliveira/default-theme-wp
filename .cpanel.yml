@@ -1,0 +1,4 @@
+---
+deployment:
+  tasks:
+    - export REPOPATH=/home/joaodese/public_html/homologacao/fron-default/
